@@ -1,0 +1,22 @@
+﻿body {
+}
+header .nav{
+    height:250px;
+}
+
+.massive-font{
+font-size: 20px;
+text-align: center;
+}
+  
+.progress{
+height:40px;
+text-align:center;
+}
+
+.techdesc{
+    height:300px
+}
+.panel-body li{
+    font-size: 20px;
+}
